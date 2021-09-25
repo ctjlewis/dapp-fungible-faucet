@@ -34,7 +34,7 @@
     "build": "yarn workspaces run build"
   },
   "dependencies": {
-    "agoric": "*",
+    "agoric": "0.13.18",
     "eslint-plugin-eslint-comments": "^3.1.2"
   },
   "ava": {
