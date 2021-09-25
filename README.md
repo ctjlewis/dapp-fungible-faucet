@@ -1,6 +1,6 @@
 # Fungible Faucet Dapp
 
-TL;DR:
+TL;DR: TEST
 
 The Fungible Faucet Dapp sends tokens to a user's wallet when they
 click the "Mint Fungible Tokens" button.
